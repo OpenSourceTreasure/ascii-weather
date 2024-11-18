@@ -6,3 +6,5 @@ I took the above library and created a simple html file that displays a three da
 
 It looks like this:
 
+![screenshot](weather.png)
+
