@@ -8,3 +8,6 @@ It looks like this:
 
 ![screenshot](weather.png)
 
+💬 I think its perfect to add to a nostalgia webpage or project.
+
+🎸 Enjoy!
