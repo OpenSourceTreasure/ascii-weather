@@ -10,8 +10,9 @@ It looks like this:
 
 ![screenshot](weather.png)
 
+💡 There is no title and the favicon is black colored base64 code so it doesn't need to ping a server and one less file to deal with.
+
 💬 I think its perfect to add to a nostalgia webpage or project.
 
 🎸 Enjoy!
 
-💡 PS - There is no title and the favicon is black colored base64 code so it doesn't need to ping a server and one less file to deal with.
